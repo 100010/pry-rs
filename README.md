@@ -2,6 +2,9 @@
 
 An interactive REPL breakpoint for Rust, inspired by Ruby's `binding.pry`.
 
+<img width="920" height="640" alt="demo" src="https://github.com/user-attachments/assets/537bdbad-8f46-49e7-ae1e-477f822f9c95" />
+
+
 Drop a `pry!()` into your code and execution pauses with an interactive
 prompt where you can inspect variables, view the surrounding source, and
 print a backtrace — then continue running.
